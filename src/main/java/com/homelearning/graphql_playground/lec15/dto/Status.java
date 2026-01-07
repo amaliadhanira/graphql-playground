@@ -1,0 +1,6 @@
+package com.homelearning.graphql_playground.lec15.dto;
+
+public enum Status {
+    SUCCESS,
+    FAILURE
+}
